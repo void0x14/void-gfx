@@ -1,0 +1,3 @@
+çıplak metal saf c
+Arduino frameworkü içermez
+yalnızca ham (raw) avr-libc

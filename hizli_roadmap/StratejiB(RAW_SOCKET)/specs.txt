@@ -1,0 +1,3 @@
+Sıfır bağımlılık
+Saf C sürücüsü
+Adafruit yok,doğrudan register erişimi
