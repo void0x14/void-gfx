@@ -1,6 +1,6 @@
 #include "Adafruit_GFX.h"
 #include "glcdfont.c"
-#include <avr/pgmspace.h>
+#include <avr/io.h>
 
 
 #ifndef min
